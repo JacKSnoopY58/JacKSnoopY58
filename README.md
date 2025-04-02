@@ -6,7 +6,7 @@ Full Stack Developer
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [titijack58@gmail.com](mailto:titijack58@gmail.com)
-* 🧠  I'm learning NestJS And Microservice
+* 🧠  I'm learning LLM AI Model
 
 ### Skills
 
